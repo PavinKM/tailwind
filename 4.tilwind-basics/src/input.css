@@ -1,1 +1,6 @@
 @import "tailwindcss";
+
+/* customizing your theme */
+@theme {
+  --font-Manufacturing-Consent: "Manufacturing Consent", "sans-serif"; 
+}
